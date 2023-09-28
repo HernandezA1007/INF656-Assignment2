@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Learn Node.js",
+    "description": "Study the basics of Node.js",
+    "status": "not completed"
+  },
+  {
+    "title": "Read a book",
+    "description": "Read 'Eloquent JavaScript'",
+    "status": "not completed"
+  },
+  {
+    "title": "Homework",
+    "description": "Finish personal finance chapter",
+    "status": "completed"
+  },
+  {
+    "title": "Movie",
+    "description": "Find a movie to watch",
+    "status": "not completed"
+  },
+  {
+    "title": "Coding",
+    "description": "Debug the code",
+    "status": "not completed"
+  },
+  {
+    "title": "Dinner",
+    "description": "Choose what to eat for dinner",
+    "status": "completed"
+  }
+]
