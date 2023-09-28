@@ -95,7 +95,7 @@ function promptUser() {
                 });
                 break;
             case "3":
-                // Displays the title of all tasks
+                // Displays the title of all tasks for User to know what available
                 const tasks = await getAllTasks();
                 console.log("Available tasks: ");
                 tasks.forEach((task, index) => {
@@ -119,3 +119,4 @@ function promptUser() {
 }
 
 promptUser(); // Call the promptUser function to start the app
+// The user can start by typing node taskmanager.js in the terminal
