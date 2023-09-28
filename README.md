@@ -1,6 +1,6 @@
 # Assignment 2 - Task Manager
 
-This is a simple application that allows the user to manage tasks via command line interface
+This is a simple application that allows the user to manage tasks. 
 
 ## Features
 - Read tasks from a file
@@ -10,3 +10,6 @@ This is a simple application that allows the user to manage tasks via command li
 
 ## Prerequisites 
 - Node.js
+- ...
+
+Example..
