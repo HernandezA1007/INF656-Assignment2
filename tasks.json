@@ -1,12 +1,12 @@
 [
   {
-    "title": "Learn Node.js",
+    "title": "Learn Node",
     "description": "Study the basics of Node.js",
     "status": "not completed"
   },
   {
     "title": "Read a book",
-    "description": "Read 'Eloquent JavaScript'",
+    "description": "Read 'Book'",
     "status": "not completed"
   },
   {
